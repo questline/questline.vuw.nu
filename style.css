@@ -1,12 +1,15 @@
 :root {
 
   --background: #111;
+  
+  --color-logo: white;
 
   /* Page Width */
   --max-width: 1300px;
 
-  --primary-font: 'Open Sans', sans-serif;
-  --secondary-font: 'Open Sans', sans-serif;
-  --header-font: 'Open Sans', sans-serif;
+  --font-primary: 'Open Sans', sans-serif;
+  --font-secondary: 'Open Sans', sans-serif;
+  --font-header: 'Open Sans', sans-serif;
+  --font-logo: 'Cherry Swash', sans-serif;
 
 }
